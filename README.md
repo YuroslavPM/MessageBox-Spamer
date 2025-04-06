@@ -1,5 +1,5 @@
 # MessageBox-Spamer
-Иnformation and Communication Security Project
+Information and Communication Security Project
 Name: Yuroslav Minchev Student ID: 2201321007
 
 To start, we create a program in Visual Studio using Windows Forms. This allows us to spam MessageBoxes on the screen with some text of our choice. In this case, we have a switch that uses Random to select which text to display on the screen. Also, the messages cannot repeat consecutively. The entire process is placed inside an infinite while loop, so regardless of whether the user presses the "Accept" button or the "X" to close the window, they won't be able to exit the program.
